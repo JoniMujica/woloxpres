@@ -1,0 +1,22 @@
+body{
+    background-image: linear-gradient(blue,lightblue,white);
+    background-attachment: fixed;
+}
+.tituloc{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 25px;
+}
+.contenido{
+    display:flex;
+    flex-direction: row;
+}
+.columna{
+    display: flex;
+    flex-direction: column;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+}
